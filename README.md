@@ -152,8 +152,8 @@ This repository tracks my progress learning SwiftUI through comprehensive tutori
 ## 🍎 Apple SwiftUI Tutorials
 
 ### SwiftUI essentials:
-- [ ] [Creating and combining views](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
-- [ ] [Building lists and navigation](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation)
+- [x] [Creating and combining views](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
+- [x] [Building lists and navigation](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation)
 - [ ] [Handling user input](https://developer.apple.com/tutorials/swiftui/handling-user-input)
 
 ### Drawing and animation:
