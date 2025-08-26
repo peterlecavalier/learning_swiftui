@@ -15,7 +15,7 @@ This repository tracks my progress learning SwiftUI through comprehensive tutori
 ## 📚 Hacking with Swift - 100 Days of SwiftUI
 
 ### Preparation
-- [ ] [Day 0](https://www.hackingwithswift.com/100/swiftui/0) – Tips and advice before you start
+- [x] [Day 0](https://www.hackingwithswift.com/100/swiftui/0) – Tips and advice before you start
 
 ### Days 1-14: Introduction to Swift
 - [ ] [Day 1](https://www.hackingwithswift.com/100/swiftui/1) – Variables, constants, strings, and numbers
@@ -171,4 +171,4 @@ This repository tracks my progress learning SwiftUI through comprehensive tutori
 
 ## 📝 Notes
 
-I'll use this to add any notes as I go along!
+Watched Day 0 video for Hacking with Swift - definitely feeling very motivated to keep going with this :)
