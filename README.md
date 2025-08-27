@@ -18,8 +18,8 @@ This repository tracks my progress learning SwiftUI through comprehensive tutori
 - [x] [Day 0](https://www.hackingwithswift.com/100/swiftui/0) – Tips and advice before you start
 
 ### Days 1-14: Introduction to Swift
-- [ ] [Day 1](https://www.hackingwithswift.com/100/swiftui/1) – Variables, constants, strings, and numbers
-- [ ] [Day 2](https://www.hackingwithswift.com/100/swiftui/2) – Booleans, string interpolation, and checkpoint 1
+- [x] [Day 1](https://www.hackingwithswift.com/100/swiftui/1) – Variables, constants, strings, and numbers
+- [x] [Day 2](https://www.hackingwithswift.com/100/swiftui/2) – Booleans, string interpolation, and checkpoint 1
 - [ ] [Day 3](https://www.hackingwithswift.com/100/swiftui/3) – Arrays, dictionaries, sets, and enums
 - [ ] [Day 4](https://www.hackingwithswift.com/100/swiftui/4) – Type annotations and checkpoint 2
 - [ ] [Day 5](https://www.hackingwithswift.com/100/swiftui/5) – If, switch, and the ternary operator
@@ -171,4 +171,5 @@ This repository tracks my progress learning SwiftUI through comprehensive tutori
 
 ## 📝 Notes
 
-Watched Day 0 video for Hacking with Swift - definitely feeling very motivated to keep going with this :)
+- Watched Day 0 video for Hacking with Swift - definitely feeling very motivated to keep going with this :)
+- After Day 1/2, I feel like my previous computer science knowledge is helping me understand basic concepts quite a bit. Still going to take things slow and make sure I understand nuances in Swift / SwiftUI though. Hoping to start learning some brand new concepts soon!
