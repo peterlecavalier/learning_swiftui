@@ -21,7 +21,7 @@ This repository tracks my progress learning SwiftUI through comprehensive tutori
 - [x] [Day 1](https://www.hackingwithswift.com/100/swiftui/1) – Variables, constants, strings, and numbers
 - [x] [Day 2](https://www.hackingwithswift.com/100/swiftui/2) – Booleans, string interpolation, and checkpoint 1
 - [x] [Day 3](https://www.hackingwithswift.com/100/swiftui/3) – Arrays, dictionaries, sets, and enums
-- [ ] [Day 4](https://www.hackingwithswift.com/100/swiftui/4) – Type annotations and checkpoint 2
+- [x] [Day 4](https://www.hackingwithswift.com/100/swiftui/4) – Type annotations and checkpoint 2
 - [ ] [Day 5](https://www.hackingwithswift.com/100/swiftui/5) – If, switch, and the ternary operator
 - [ ] [Day 6](https://www.hackingwithswift.com/100/swiftui/6) – Loops, summary, and checkpoint 3
 - [ ] [Day 7](https://www.hackingwithswift.com/100/swiftui/7) – Functions, parameters, and return values
