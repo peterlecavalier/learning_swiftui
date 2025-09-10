@@ -22,7 +22,7 @@ This repository tracks my progress learning SwiftUI through comprehensive tutori
 - [x] [Day 2](https://www.hackingwithswift.com/100/swiftui/2) – Booleans, string interpolation, and checkpoint 1
 - [x] [Day 3](https://www.hackingwithswift.com/100/swiftui/3) – Arrays, dictionaries, sets, and enums
 - [x] [Day 4](https://www.hackingwithswift.com/100/swiftui/4) – Type annotations and checkpoint 2
-- [ ] [Day 5](https://www.hackingwithswift.com/100/swiftui/5) – If, switch, and the ternary operator
+- [x] [Day 5](https://www.hackingwithswift.com/100/swiftui/5) – If, switch, and the ternary operator
 - [ ] [Day 6](https://www.hackingwithswift.com/100/swiftui/6) – Loops, summary, and checkpoint 3
 - [ ] [Day 7](https://www.hackingwithswift.com/100/swiftui/7) – Functions, parameters, and return values
 - [ ] [Day 8](https://www.hackingwithswift.com/100/swiftui/8) – Default values, throwing functions, and checkpoint 4
@@ -174,3 +174,4 @@ This repository tracks my progress learning SwiftUI through comprehensive tutori
 - Watched Day 0 video for Hacking with Swift - definitely feeling very motivated to keep going with this :)
 - After Day 1/2, I feel like my previous computer science knowledge is helping me understand basic concepts quite a bit. Still going to take things slow and make sure I understand nuances in Swift / SwiftUI though. Hoping to start learning some brand new concepts soon!
 - Day 3: I learned enums once long ago but have never used them in other languages. I feel like they'll be more useful for Swift though.
+- Day 5: I almost never use switch statements or ternary operators in Python (maybe I should!) so this is a good refresher.
