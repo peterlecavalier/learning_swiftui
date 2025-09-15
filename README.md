@@ -24,7 +24,7 @@ This repository tracks my progress learning SwiftUI through comprehensive tutori
 - [x] [Day 4](https://www.hackingwithswift.com/100/swiftui/4) – Type annotations and checkpoint 2
 - [x] [Day 5](https://www.hackingwithswift.com/100/swiftui/5) – If, switch, and the ternary operator
 - [x] [Day 6](https://www.hackingwithswift.com/100/swiftui/6) – Loops, summary, and checkpoint 3
-- [ ] [Day 7](https://www.hackingwithswift.com/100/swiftui/7) – Functions, parameters, and return values
+- [x] [Day 7](https://www.hackingwithswift.com/100/swiftui/7) – Functions, parameters, and return values
 - [ ] [Day 8](https://www.hackingwithswift.com/100/swiftui/8) – Default values, throwing functions, and checkpoint 4
 - [ ] [Day 9](https://www.hackingwithswift.com/100/swiftui/9) – Closures, passing functions into functions, and checkpoint 5
 - [ ] [Day 10](https://www.hackingwithswift.com/100/swiftui/10) – Structs, computed properties, and property observers
@@ -176,3 +176,4 @@ This repository tracks my progress learning SwiftUI through comprehensive tutori
 - Day 3: I learned enums once long ago but have never used them in other languages. I feel like they'll be more useful for Swift though.
 - Day 5: I almost never use switch statements or ternary operators in Python (maybe I should!) so this is a good refresher.
 - Day 6: I think the labeled statements in Swift are pretty cool! I've encountered situations in Python before where I wish I had something like this for loops...
+- Day 7: I'm really starting to like Swift's customization with their syntax. Although it's a bit more complicated than other languages I've learned, it's really interesting!
