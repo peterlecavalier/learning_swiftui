@@ -178,3 +178,4 @@ This repository tracks my progress learning SwiftUI through comprehensive tutori
 - Day 6: I think the labeled statements in Swift are pretty cool! I've encountered situations in Python before where I wish I had something like this for loops...
 - Day 7: I'm really starting to like Swift's customization with their syntax. Although it's a bit more complicated than other languages I've learned, it's really interesting!
 - Day 8: I'm starting to have a lot of fun with this!! Today's checkpoint was an interesting example. Swift's error handling is a bit tedious in my opinion, but it's nice that it has plenty of safeguards up to prevent you from making mistakes in your code.
+- Day 9: Closures are pretty similar to lambda funcs in Python. There's definitely more nuances + safeguards as with other Swift things, but it's cool to see!
