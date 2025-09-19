@@ -26,7 +26,7 @@ This repository tracks my progress learning SwiftUI through comprehensive tutori
 - [x] [Day 6](https://www.hackingwithswift.com/100/swiftui/6) – Loops, summary, and checkpoint 3
 - [x] [Day 7](https://www.hackingwithswift.com/100/swiftui/7) – Functions, parameters, and return values
 - [x] [Day 8](https://www.hackingwithswift.com/100/swiftui/8) – Default values, throwing functions, and checkpoint 4
-- [ ] [Day 9](https://www.hackingwithswift.com/100/swiftui/9) – Closures, passing functions into functions, and checkpoint 5
+- [x] [Day 9](https://www.hackingwithswift.com/100/swiftui/9) – Closures, passing functions into functions, and checkpoint 5
 - [ ] [Day 10](https://www.hackingwithswift.com/100/swiftui/10) – Structs, computed properties, and property observers
 - [ ] [Day 11](https://www.hackingwithswift.com/100/swiftui/11) – Access control, static properties and methods, and checkpoint 6
 - [ ] [Day 12](https://www.hackingwithswift.com/100/swiftui/12) – Classes, inheritance, and checkpoint 7
@@ -178,4 +178,4 @@ This repository tracks my progress learning SwiftUI through comprehensive tutori
 - Day 6: I think the labeled statements in Swift are pretty cool! I've encountered situations in Python before where I wish I had something like this for loops...
 - Day 7: I'm really starting to like Swift's customization with their syntax. Although it's a bit more complicated than other languages I've learned, it's really interesting!
 - Day 8: I'm starting to have a lot of fun with this!! Today's checkpoint was an interesting example. Swift's error handling is a bit tedious in my opinion, but it's nice that it has plenty of safeguards up to prevent you from making mistakes in your code.
-- Day 9: Closures are pretty similar to lambda funcs in Python. There's definitely more nuances + safeguards as with other Swift things, but it's cool to see!
+- Day 9: Closures are pretty similar to lambda funcs in Python. There's definitely more nuances + safeguards as with other Swift things, but it's cool to see! After going through the whole day, this is definitely the toughest concept so far. The syntax is pretty confusing, but I'm hoping I get used to it :)
